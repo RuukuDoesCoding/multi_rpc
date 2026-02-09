@@ -3,8 +3,7 @@ Enhanced Discord Rich Presence tool for League of Legends and Valorant.
 
 Above you can download .py code and needed icons/images for coding.
 
-DOWNLOAD APP
-----------
+# DOWNLOAD APP
 https://github.com/RuukuDoesCoding/multi_rpc/releases
 
 
